@@ -1,0 +1,5 @@
+1. Quais as vantagens da compilação separada em C? Organize os códigos das questões 2
+e 3 usando bibliotecas em C e Makefile. Você deve criar pelo menos uma biblioteca.
+
+ao ultilizar a compilação separada se ganha em processamento pois  todo o processo das funções inseridas serão pré compilada ou seja serão inseridas antes da compilação, sem falar na organização do codigo fazendo assim uma 
+ modularização do codigo e possibilitando a criação de bibliotecas contendo funções nas quais poderam ser reutilizadas em outros projetos e codigos.
